@@ -1,0 +1,50 @@
+C:\Users\win7\Desktop\Sayısal Loto\Sayısal Loto\bin\Debug\Sayısal Loto.exe
+C:\Users\win7\Desktop\Sayısal Loto\Sayısal Loto\bin\Debug\Sayısal Loto.pdb
+C:\Users\win7\Desktop\Sayısal Loto\Sayısal Loto\obj\x86\Debug\Sayısal_Loto.Form1.resources
+C:\Users\win7\Desktop\Sayısal Loto\Sayısal Loto\obj\x86\Debug\Sayısal_Loto.Properties.Resources.resources
+C:\Users\win7\Desktop\Sayısal Loto\Sayısal Loto\obj\x86\Debug\Sayısal Loto.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\Sayısal Loto\Sayısal Loto\obj\x86\Debug\Sayısal Loto.exe
+C:\Users\win7\Desktop\Sayısal Loto\Sayısal Loto\obj\x86\Debug\Sayısal Loto.pdb
+C:\Users\win7\Desktop\Sayısal Loto\Sayısal Loto\obj\x86\Debug\Sayısal Loto.csprojResolveAssemblyReference.cache
+C:\Users\CAN\Desktop\Sayısal Loto ibo\Sayısal Loto\obj\x86\Debug\Sayısal Loto.exe
+C:\Users\CAN\Desktop\Sayısal Loto ibo\Sayısal Loto\obj\x86\Debug\Sayısal Loto.pdb
+C:\Users\CAN\Desktop\Sayısal Loto ibo\Sayısal Loto\bin\Debug\Sayısal Loto.exe
+C:\Users\CAN\Desktop\Sayısal Loto ibo\Sayısal Loto\bin\Debug\Sayısal Loto.pdb
+C:\Users\CAN\Desktop\Sayısal Loto ibo\Sayısal Loto\obj\x86\Debug\Sayısal Loto.csprojResolveAssemblyReference.cache
+C:\Users\CAN\Desktop\Sayısal Loto ibo\Sayısal Loto\obj\x86\Debug\Sayısal_Loto.Form1.resources
+C:\Users\CAN\Desktop\Sayısal Loto ibo\Sayısal Loto\obj\x86\Debug\Sayısal_Loto.Properties.Resources.resources
+C:\Users\CAN\Desktop\Sayısal Loto ibo\Sayısal Loto\obj\x86\Debug\Sayısal Loto.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\Sayısal Loto ibo\Sayısal Loto\obj\x86\Debug\Sayısal Loto.exe
+C:\Users\win7\Desktop\Sayısal Loto ibo\Sayısal Loto\obj\x86\Debug\Sayısal Loto.pdb
+C:\Users\win7\Desktop\Sayısal Loto ibo\Sayısal Loto\bin\Debug\Sayısal Loto.exe
+C:\Users\win7\Desktop\Sayısal Loto ibo\Sayısal Loto\bin\Debug\Sayısal Loto.pdb
+C:\Users\win7\Desktop\Sayısal Loto ibo\Sayısal Loto\obj\x86\Debug\Sayısal Loto.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Sayısal Loto ibo\Sayısal Loto\obj\x86\Debug\Sayısal_Loto.Form1.resources
+C:\Users\win7\Desktop\Sayısal Loto ibo\Sayısal Loto\obj\x86\Debug\Sayısal_Loto.Properties.Resources.resources
+C:\Users\win7\Desktop\Sayısal Loto ibo\Sayısal Loto\obj\x86\Debug\Sayısal Loto.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal Loto.exe
+C:\Users\win7\Desktop\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal Loto.pdb
+C:\Users\win7\Desktop\Sayısal Loto Ödevi\Sayısal Loto\bin\Debug\Sayısal Loto.exe
+C:\Users\win7\Desktop\Sayısal Loto Ödevi\Sayısal Loto\bin\Debug\Sayısal Loto.pdb
+C:\Users\win7\Desktop\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal Loto.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal_Loto.Form1.resources
+C:\Users\win7\Desktop\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal_Loto.Properties.Resources.resources
+C:\Users\win7\Desktop\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal Loto.csproj.GenerateResource.Cache
+F:\11.Sınıf Dosyaları\Nesne Tabanlı Programlama\2018-12-06 Kodlamalar\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal Loto.exe
+F:\11.Sınıf Dosyaları\Nesne Tabanlı Programlama\2018-12-06 Kodlamalar\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal Loto.pdb
+D:\11.Sınıf Dosyaları\Nesne Tabanlı Programlama\2018-12-06 Kodlamalar\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal Loto.exe
+D:\11.Sınıf Dosyaları\Nesne Tabanlı Programlama\2018-12-06 Kodlamalar\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal Loto.pdb
+D:\11.Sınıf Dosyaları\Nesne Tabanlı Programlama\2018-12-06 Kodlamalar\Sayısal Loto Ödevi\Sayısal Loto\bin\Debug\Sayısal Loto.exe
+D:\11.Sınıf Dosyaları\Nesne Tabanlı Programlama\2018-12-06 Kodlamalar\Sayısal Loto Ödevi\Sayısal Loto\bin\Debug\Sayısal Loto.pdb
+D:\11.Sınıf Dosyaları\Nesne Tabanlı Programlama\2018-12-06 Kodlamalar\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal Loto.csprojResolveAssemblyReference.cache
+D:\11.Sınıf Dosyaları\Nesne Tabanlı Programlama\2018-12-06 Kodlamalar\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal_Loto.Form1.resources
+D:\11.Sınıf Dosyaları\Nesne Tabanlı Programlama\2018-12-06 Kodlamalar\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal_Loto.Properties.Resources.resources
+D:\11.Sınıf Dosyaları\Nesne Tabanlı Programlama\2018-12-06 Kodlamalar\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal Loto.csproj.GenerateResource.Cache
+C:\Users\ibrra\OneDrive\Masaüstü\Sayısal Loto Ödevi\Sayısal Loto\bin\Debug\Sayısal Loto.exe
+C:\Users\ibrra\OneDrive\Masaüstü\Sayısal Loto Ödevi\Sayısal Loto\bin\Debug\Sayısal Loto.pdb
+C:\Users\ibrra\OneDrive\Masaüstü\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal Loto.csprojResolveAssemblyReference.cache
+C:\Users\ibrra\OneDrive\Masaüstü\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal_Loto.Form1.resources
+C:\Users\ibrra\OneDrive\Masaüstü\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal_Loto.Properties.Resources.resources
+C:\Users\ibrra\OneDrive\Masaüstü\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal Loto.csproj.GenerateResource.Cache
+C:\Users\ibrra\OneDrive\Masaüstü\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal Loto.exe
+C:\Users\ibrra\OneDrive\Masaüstü\Sayısal Loto Ödevi\Sayısal Loto\obj\x86\Debug\Sayısal Loto.pdb
